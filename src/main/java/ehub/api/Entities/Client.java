@@ -6,7 +6,7 @@ import org.springframework.data.annotation.Id;
 
 import javax.persistence.Entity;
 
-@Entity
+
 public class Client {
 	@Id
 	private String id;

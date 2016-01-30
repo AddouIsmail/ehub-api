@@ -4,7 +4,8 @@ import org.springframework.data.annotation.Id;
 
 import javax.persistence.Entity;
 
-@Entity
+
+
 public class Supplier {
     @Id
     private String id;

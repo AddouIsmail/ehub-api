@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 
 import javax.persistence.Entity;
 
-@Entity
+
 public class Admin {
 	@Id
 	private String id;
